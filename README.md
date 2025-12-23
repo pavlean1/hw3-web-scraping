@@ -13,7 +13,7 @@ Render link: https://hw3-web-scraping.onrender.com/
 
 Clone the repository or download the ZIP and extract it:
 
-git clone https://github.com/pavlean1/hw3-web-scraping.git
+`git clone https://github.com/pavlean1/hw3-web-scraping.git`
 
 cd PythonWebScrapingApp
 (If you downloaded a ZIP, just extract it and `cd` into the folder.)
@@ -22,19 +22,19 @@ cd PythonWebScrapingApp
 
 ### 2. (Optional) Create and activate a virtual environment
 
-python -m venv venv
+`python -m venv venv`
 
-venv\Scripts\activate # Windows
+`venv\Scripts\activate` # Windows
 
 or on macOS / Linux:
 
-source venv/bin/activate
+`source venv/bin/activate`
 
 ---
 
 ### 3. Install requirements
 
-python -m pip install -r requirements.txt
+`python -m pip install -r requirements.txt`
 
 ---
 
@@ -42,7 +42,7 @@ python -m pip install -r requirements.txt
 
 This downloads products, reviews, and testimonials into the `data/` folder:
 
-python scraper.py
+`python scraper.py`
 
 ---
 
@@ -50,7 +50,7 @@ python scraper.py
 
 Start the Streamlit dashboard:
 
-streamlit run app.py
+`streamlit run app.py`
 
 Then open the URL shown in the terminal (usually `http://localhost:8501`) in your browser.
 
