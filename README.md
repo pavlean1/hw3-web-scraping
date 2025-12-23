@@ -3,6 +3,8 @@
 Homework project for a Data Mining class.  
 The app scrapes product, review, and testimonial data from a mock e‑commerce website and provides an interactive Streamlit dashboard with sentiment analysis.
 
+Render link: https://hw3-web-scraping.onrender.com/
+
 ---
 
 ## How to Use
