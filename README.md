@@ -11,7 +11,7 @@ The app scrapes product, review, and testimonial data from a mock e‑commerce w
 
 Clone the repository or download the ZIP and extract it:
 
-git clone https://github.com/pavlean1/PythonWebScrapingApp.git
+git clone https://github.com/pavlean1/hw3-web-scraping.git
 
 cd PythonWebScrapingApp
 (If you downloaded a ZIP, just extract it and `cd` into the folder.)
